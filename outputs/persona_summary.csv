@@ -1,0 +1,10 @@
+cluster,total_spend,avg_order_value,order_count,avg_quantity,coupon_usage_rate,bad_outcome_rate,recency_days,product_diversity,customer_count,persona_label
+0,885.07,882.84,1,2.93,0.75,0.42,478.81,1,153,Steady Mainstream Shopper
+1,900.11,905.84,1,2.88,0.74,0.44,442.51,1,149,High-Value Loyalist
+2,2568.99,2554.29,1,4.7,0.75,0.36,488.82,1,147,Steady Mainstream Shopper
+3,819.83,823.32,1.01,2.47,0.72,0.45,461.4,1,152,At-Risk / High-Return Customer
+4,835.94,837.65,1,2.84,0.77,0.39,447.98,1,155,Budget-Conscious Explorer
+5,1908.89,923.22,2.09,3.06,0.69,0.32,250.37,1.93,8,High-Value Loyalist
+6,827.11,824.57,1.01,2.45,0.75,0.4,450.05,1,141,Steady Mainstream Shopper
+7,760.26,756.21,1.01,2.61,0.76,0.42,468.64,1,144,Budget-Conscious Explorer
+8,871.66,871.03,1,2.68,0.7,0.46,480.59,1,140,At-Risk / High-Return Customer
