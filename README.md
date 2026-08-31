@@ -440,9 +440,9 @@ Customer segmentation can help businesses:
 
 ## 👨‍💻 Author
 
-**Karthi**
+**Karthikeyan G**
 
-BCA Data Science Student
+Vit MscData Science Student
 
 ---
 
